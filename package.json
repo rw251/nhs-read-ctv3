@@ -1,0 +1,14 @@
+{
+  "name": "nhs-read-ctv3",
+  "version": "1.0.0",
+  "description": "Processing scripts for Readv2 and CTV3 clinical code dictionaries",
+  "main": "index.js",
+  "type": "module",
+  "author": "Richard Williams <1234richardwilliams@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@aws-sdk/client-s3": "^3.540.0",
+    "brotli": "^1.3.3",
+    "dotenv": "^16.4.5"
+  }
+}
